@@ -1,6 +1,10 @@
 # File Pipe
 
-**Pipe your scattered files into order** - define rules once, then automatically move or copy matching files from any folder into the destination you set.
+File Pipe turns your chaotic storage into a perfectly organized library — automatically.
+
+Ever wanted all your videos in one folder, regardless of which app downloaded them? Or wished your Downloads folder would just sort itself into Documents, Music, Images, and everything else?
+
+That's exactly what <b>File Pipe</b> does. Set a rule, pick a schedule, and let the pipes do the work. Move or copy any media to its rightful place.
 
 ## ✨ Features
 
@@ -38,6 +42,15 @@
 
 8. **Customise** — Settings covers theme and palette, gradient, blur, haptic feedback, swipe
    actions, notifications, backup / restore, history retention, and update checks.
+
+---
+
+## 🖼️ Screenshots
+
+| <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/1_rules.png" alt="Home Page: Rules" width="320" /> | <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/5_multiselect.png" alt="Light & Dark themes." width="320" /> | <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/8_settings.png" alt="Extensive theming options. Make it your own." width="320" /> |
+| ------------------------------------------------------ | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/2_templates.png" alt="Rule creation templates" width="320" /> | <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/3_edit.png" alt="Rule editing" width="320" /> | <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/4_icons.png" alt="Set icons or your choice of emoji" width="320" /> |
+| <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/6_history.png" alt="All runs saved in history." width="320" /> | <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/7_history.png" alt="Per file list. Option to undo." width="320" /> | <video src="https://github.com/user-attachments/assets/31377ddc-ccf0-4583-a558-39b285250d3a" width="320" controls muted></video> |
 
 ---
 
